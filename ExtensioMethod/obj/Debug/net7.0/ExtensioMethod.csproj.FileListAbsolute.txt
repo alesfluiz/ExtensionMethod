@@ -1,0 +1,15 @@
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\bin\Debug\net7.0\ExtensioMethod.exe
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\bin\Debug\net7.0\ExtensioMethod.deps.json
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\bin\Debug\net7.0\ExtensioMethod.runtimeconfig.json
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\bin\Debug\net7.0\ExtensioMethod.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\bin\Debug\net7.0\ExtensioMethod.pdb
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\obj\Debug\net7.0\ExtensioMethod.csproj.AssemblyReference.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\obj\Debug\net7.0\ExtensioMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\obj\Debug\net7.0\ExtensioMethod.AssemblyInfoInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\obj\Debug\net7.0\ExtensioMethod.AssemblyInfo.cs
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\obj\Debug\net7.0\ExtensioMethod.csproj.CoreCompileInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\obj\Debug\net7.0\ExtensioMethod.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\obj\Debug\net7.0\refint\ExtensioMethod.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\obj\Debug\net7.0\ExtensioMethod.pdb
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\obj\Debug\net7.0\ExtensioMethod.genruntimeconfig.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExtensioMethod\ExtensioMethod\obj\Debug\net7.0\ref\ExtensioMethod.dll
